@@ -2,8 +2,8 @@ vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@mtn.hamechyhast.shop:2053?type=grpc
 vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@ananas.pvnddrs.ml:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MTN-2
 vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@filternakonpls.ddns.net:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MTN-3
 vless://67a12eb9-aeca-460e-ec74-6e624c2aec0e@filternakonpls.ddns.net:443?type=ws&security=tls&path=%2F&sni=wow.hamechyhast.shop#PVN-3-MTN-4
-vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@IRAN-VPN01mtn.ddns.net:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MCI-4
-vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@MsV2ray-mtn.ddns.net:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MTN-5
+vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@IRAN-VPN01mtn.ddns.net:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MCI-5
+vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@MsV2ray-mtn.ddns.net:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MTN-6
 vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@mci.hamechyhast.shop:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MCI-1
 vless://ba44a484-9ba9-4b45-de0c-4ce6e5d88db8@hamechyhast.ddns.net:2053?type=grpc&security=tls&serviceName=&sni=wow.hamechyhast.shop#PVN-4-MCI-2
 vless://67a12eb9-aeca-460e-ec74-6e624c2aec0e@hamechyhast.ddns.net:443?type=ws&security=tls&path=%2F&sni=wow.hamechyhast.shop#PVN-3-MCI-3
