@@ -3,4 +3,5 @@ vless://037f3e09-1015-46e3-9964-d5a99574b72f@185.143.233.225:443?path=%2F0bBNvAT
 vless://037f3e09-1015-46e3-9964-d5a99574b72f@mci-MsV2ray.ddns.net:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=0bBNvATLExXjbkaDXBpWy&sni=cf.pvnddrs.ml#Cloud-PVN-3
 vless://037f3e09-1015-46e3-9964-d5a99574b72f@aarv.falafeli.click:443?mode=gun&security=reality&encryption=none&alpn=h2&pbk=kpbcx1_ohIlqb0r6q0EXC5hdctPVWprAZx57Kwubgms&fp=chrome&type=grpc&serviceName=0bBNvATLExXjbkaDXBpWy&sni=zula.ir&sid=4a50b01dbaa840#Reality-PVN-4
 vless://037f3e09-1015-46e3-9964-d5a99574b72f@aarv.falafeli.click:443?mode=gun&security=reality&encryption=none&alpn=h2&pbk=kpbcx1_ohIlqb0r6q0EXC5hdctPVWprAZx57Kwubgms&fp=chrome&type=grpc&serviceName=0bBNvATLExXjbkaDXBpWy&sni=ftp.debian.org&sid=4a50b01dbaa840#Reality-PVN-5
-hysteria://65.109.214.40:10233/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=pvnddrsaa#PVN-6
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@gg.pvnddrs.ml:80?encryption=none&security=none&type=ws&host=gc.pvnddrs.ml&path=%2F0bBNvATLExX7xwcpA6Pr2I#PVN-Gcore-6
+hysteria://65.109.214.40:10233/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=pvnddrsaa#PVN-7
