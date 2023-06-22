@@ -1,8 +1,8 @@
-vless://037f3e09-1015-46e3-9964-d5a99574b72f@185.143.232.13:443?path=%2F0bBNvATLExX7xwcpA6Pr2I&security=tls&encryption=none&alpn=h2,http/1.1&host=arv.hamechyhast.shop&fp=randomized&type=ws&sni=arv.hamechyhast.shop#Arvan-PVN-1
-vless://037f3e09-1015-46e3-9964-d5a99574b72f@185.143.233.225:443?path=%2F0bBNvATLExX7xwcpA6Pr2I&security=tls&encryption=none&alpn=h2,http/1.1&host=arv.falafeli.click&fp=randomized&type=ws&sni=arv.falafeli.click#Arvan-PVN-2
-vless://037f3e09-1015-46e3-9964-d5a99574b72f@rsv2ray-mci.ddns.net:443?encryption=none&security=tls&sni=prcf.pvnddrs.ml&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=0bBNvATLExXjbkaDXBpWy&mode=gun#Cloud-PVN-3
-vless://037f3e09-1015-46e3-9964-d5a99574b72f@aarv.falafeli.click:443?mode=gun&security=reality&encryption=none&alpn=h2&pbk=kpbcx1_ohIlqb0r6q0EXC5hdctPVWprAZx57Kwubgms&fp=chrome&type=grpc&serviceName=0bBNvATLExXjbkaDXBpWy&sni=zula.ir&sid=4a50b01dbaa840#Reality-PVN-4
-vless://037f3e09-1015-46e3-9964-d5a99574b72f@aarv.falafeli.click:443?mode=gun&security=reality&encryption=none&alpn=h2&pbk=kpbcx1_ohIlqb0r6q0EXC5hdctPVWprAZx57Kwubgms&fp=chrome&type=grpc&serviceName=0bBNvATLExXjbkaDXBpWy&sni=ftp.debian.org&sid=4a50b01dbaa840#Reality-PVN-5
-vless://037f3e09-1015-46e3-9964-d5a99574b72f@gg.pvnddrs.ml:80?encryption=none&security=none&type=ws&host=gc.pvnddrs.ml&path=%2F0bBNvATLExX7xwcpA6Pr2I#PVN-Gcore-6
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@185.143.232.13:443?encryption=none&security=tls&sni=arv.hamechyhast.shop&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=arv.hamechyhast.shop&path=%2F%40vrmanl_wbests#Arvan-PVN-1
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@185.143.233.225:443?encryption=none&security=tls&sni=arv.falafeli.click&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=arv.falafeli.click&path=%2F%40vrmanl_wbests#Arvan-PVN-2
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@rsv2ray-mci.ddns.net:443?encryption=none&security=tls&sni=prcf.pvnddrs.ml&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40vrmanl_gbestr&mode=gun#Cloud-PVN-3
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@aarv.falafeli.click:443?encryption=none&security=reality&sni=zula.ir&alpn=h2&fp=chrome&pbk=kpbcx1_ohIlqb0r6q0EXC5hdctPVWprAZx57Kwubgms&sid=4a50b01dbaa840&type=grpc&serviceName=%40vrmanl_gbestr&mode=gun#Reality-PVN-4
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@aarv.falafeli.click:443?encryption=none&security=reality&sni=ftp.debian.org&alpn=h2&fp=chrome&pbk=kpbcx1_ohIlqb0r6q0EXC5hdctPVWprAZx57Kwubgms&sid=4a50b01dbaa840&type=grpc&serviceName=%40vrmanl_gbestr&mode=gun#Reality-PVN-5
+vless://037f3e09-1015-46e3-9964-d5a99574b72f@gg.pvnddrs.ml:80?encryption=none&security=none&type=ws&host=gc.pvnddrs.ml&path=%2F%40vrmanl_wbests#PVN-Gcore-6
 hysteria://65.109.214.40:10233/?insecure=1&upmbps=11&downmbps=55&obfs=xplus&obfsParam=pvnddrsaa#PVN-7
 naive+https://arman:pvnddrs@np.pvnddrs.ml:18585/?sni=np.pvnddrs.ml#PVN-Test
